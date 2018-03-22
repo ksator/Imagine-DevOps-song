@@ -42,11 +42,12 @@ I hope someday you'll join DevOps
 And our world will live as one   
 ```  
 
-###  more David Lutz videos
+##  more David Lutz videos
 
 [Devops Song at DevopsDays 2011 in Mountain View, CA, at LinkedIn HQ](https://vimeo.com/25260799)   
        
 [The Three little sysadmins](https://www.youtube.com/watch?v=-YiIME7E4DQ)   
 
-A fork of "Killing In the Name " from "Rage Against The Machine": [Coding in the name of](https://www.youtube.com/watch?v=2v4ig4xPmXk)
+[Coding in the name of](https://www.youtube.com/watch?v=2v4ig4xPmXk): A fork of "Killing In the Name " from "Rage Against The Machine" 
+
 
