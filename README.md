@@ -1,4 +1,4 @@
-## Imagine-DevOps-song
+## Imagine DevOps song
 
 A fork of "Imagine" from John Lennon.   
 credits: David Lutz  
@@ -48,6 +48,6 @@ And our world will live as one
        
 [The Three little sysadmins](https://www.youtube.com/watch?v=-YiIME7E4DQ)   
 
-[Coding in the name of](https://www.youtube.com/watch?v=2v4ig4xPmXk): A fork of "Killing In the Name " from "Rage Against The Machine" 
+[Coding in the name of](https://www.youtube.com/watch?v=2v4ig4xPmXk): A fork of "Killing In the Name" from "Rage Against The Machine" 
 
 
